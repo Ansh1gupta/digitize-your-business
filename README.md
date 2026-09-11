@@ -91,14 +91,15 @@ An interactive Looker Studio dashboard was created to monitor:
 - Interactive filters for state, category, and delivery status
 
 **Looker Studio Dashboard:**  
-PASTE YOUR LOOKER STUDIO LINK HERE
+https://datastudio.google.com/reporting/d52a8ab3-e977-4996-a1a1-30d30e268990
 
 ## Google Drive
 
 The complete Google Sheet, Python notebook, and supporting project files are available in the Google Drive folder.
 
-**Google Drive Folder:**  
-PASTE YOUR GOOGLE DRIVE FOLDER LINK HERE
+**Google Drive Folder:**
+https://drive.google.com/drive/folders/1UTNn4Y4UxgOY2Ty9PkkQMhXS_xbo9VYI?usp=sharing 
+
 
 ## Files
 
